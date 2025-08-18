@@ -1,10 +1,10 @@
 ---
 layout: base
-title: I'm [Sahasra Dheeksha Javvadi]
+title: I'm Sahasra Dheeksha Javvadi
 hide: true
 ---
 
-Hi! My name is [Sahasra Dheeksha Javvadi]
+Hi! My name is Sahasra Dheeksha Javvadi
 
 ### Development Environment
 
