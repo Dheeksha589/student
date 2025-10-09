@@ -1,6 +1,7 @@
-title: Open Coding 
-description: "Class of 2026"
+title: Sahasra Javvadi - Student Portfolio
+description: "I am from Class of 2026 learning to code and build cool projects."
 owner_name: Sahasra Dheeksha Javvadi
+author: Sahasra Javvadi
 github_username: DJforest589
 github_repo: "student" 
 baseurl: "/student" 
@@ -9,9 +10,9 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/open-coding-society" }
-    - { platform: x, user_url: "https://x.com/Open_Coding" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
+    - { platform: github, user_url: "https://github.com/Dheeksha589" }
+#    - { platform: x, user_url: "https://x.com/Open_Coding" }
+#    - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
